@@ -1,2 +1,2 @@
 # aula-html
-Projeto feito na aula do modulo basico
+Projeto feito na aula do modulo basico.
